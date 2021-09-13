@@ -1,0 +1,37 @@
+{
+  "users" : [
+    {
+      "id" : "1",
+      "name" : "lahiru",
+      "mail" : "lahiru@gmail.com",
+      "companyID" : "1"
+    },
+    {
+      "id" : "2",
+      "name" : "prasad",
+      "mail" : "lahiru@gmail.com",
+      "companyID" : "1"
+    },
+    {
+      "id" : "3",
+      "name" : "Sihina",
+      "mail" : "lahiru@gmail.com",
+      "companyID" : "2"
+    }
+  ],
+
+  "company" : [
+    {
+      "id":"1",
+      "name" : "apple"
+    },
+    {
+      "id":"2",
+      "name" : "microsoft"
+    },
+    {
+      "id":"3",
+      "name" : "samsung"
+    }
+  ]
+}
